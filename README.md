@@ -25,7 +25,7 @@ Nonbinary sergal
 
 ## markings and colors
 
-TODO
+Velvety grey fur with a lavender trim that starts at the tip of the nose and trails down over the sides. The lavender is vaguely iridescent.
 
 ## name
 
