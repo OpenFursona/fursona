@@ -6,6 +6,8 @@ While PRs should be automatically merged, please note GitHub's rule reguarding s
 
 > Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes.
 
+If this doesn't go horribly, we might be able to try and find an artist to draw the result.
+
 ## species
 
 TODO
