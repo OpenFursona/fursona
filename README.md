@@ -10,11 +10,16 @@ If this doesn't go horribly, we might be able to try and find an artist to draw 
 
 ## species
 
-TODO
+Female sergal
 
 ## characteristics
 
-TODO
+- very tall
+- lanky and frail, as if she isn't eating enough
+- only walks on her toes, and never wears shoes
+- tattered clothing
+- her intimidating grin will send chills down anyone's spine
+- master of manipulation, and ruler of all (or so she'd like to think)
 
 ## markings and colors
 
