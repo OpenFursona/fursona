@@ -17,10 +17,15 @@ Female sergal
 - very tall
 - lanky and frail, as if she isn't eating enough
 - only walks on her toes, and never wears shoes
-- tattered clothing
+- tattered clothing, but intentionally so. she knows a thing or two about fashion.
 - her intimidating grin will send chills down anyone's spine
 - master of manipulation, and ruler of all (or so she'd like to think)
+- listens to surf rock and dark techno
 
 ## markings and colors
+
+TODO
+
+## name
 
 TODO
